@@ -1,2 +1,9 @@
 https://youtu.be/vRbSnlRyJNQ
 www.photopea.com/#inxKdJjbU.psd
+
+
+###### AI #######
+create a gui interface
+nuraln i n e must include gpt 4.0
+pywhatkit jhmb
+others
